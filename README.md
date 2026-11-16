@@ -6,7 +6,7 @@ Práctica demostrativa de un estudio ficticio de muestreo de castores y su integ
 
 ## Vídeo explicativo
 
-[Enlace al vídeo de YouTube (no listado)]([https://youtu.be/XXXXXXXXXXX](https://www.youtube.com/watch?v=ZCpF68QjvpQ))
+[Enlace al vídeo de YouTube (no listado)](https://www.youtube.com/watch?v=ZCpF68QjvpQ)
 
 El vídeo incluye marcas de tiempo en la descripción para poder ver solo las partes de interés.
 
